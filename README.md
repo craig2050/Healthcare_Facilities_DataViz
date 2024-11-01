@@ -38,9 +38,9 @@ facility distribution across California's counties. Key elements of the dashboar
    - **Bubble Chart**: Shows facility distribution with and without population adjustment, emphasizing the change in 
      relative availability per capita.
 
-![Data Visualization](./tableau_workbook/Healthcare_facilities_vizualization.1.png)
+![Data Visualization](./02_content/tableau_workbook/Healthcare_facilities_vizualization.jpg)
 
-You can view the interactive Tableau dashboard [here on Tableau Public](<Insert_Your_Tableau_Public_Link_Here>).
+You can view the interactive Tableau dashboard [here on Tableau Public](<[Insert_Your_Tableau_Public_Link_Here](https://public.tableau.com/app/profile/craig.albuquerque3286/viz/Healthcare_facilities_vizualization/Distribution)>).
 
 These visualizations provide a comprehensive view of healthcare accessibility across California.
 
