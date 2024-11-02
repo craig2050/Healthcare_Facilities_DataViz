@@ -10,6 +10,8 @@ The objective of this project is to explore and visualize the geographical distr
 California and to analyze how these distributions vary when adjusted for population. This approach uncovers areas that 
 may be underserved relative to their population, helping to inform decisions in healthcare resource allocation.
 
+![Data Visualization](./02_content/Healthcare_facilities_vizualization.jpg)
+
 ## Data and Methodology
 
 ### Data Cleaning
@@ -38,8 +40,6 @@ facility distribution across California's counties. Key elements of the dashboar
    - **Bubble Chart**: Shows facility distribution with and without population adjustment, emphasizing the change in 
      relative availability per capita.
 
-![Data Visualization](./02_content/Healthcare_facilities_vizualization.jpg)
-
 You can view the interactive Tableau dashboard [here on Tableau Public](https://public.tableau.com/views/Healthcare_facilities_vizualization/Distribution?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 These visualizations provide a comprehensive view of healthcare accessibility across California.
@@ -47,7 +47,7 @@ These visualizations provide a comprehensive view of healthcare accessibility ac
 ## Technologies Used
 - **Python (Jupyter Notebook)**: Data cleaning and preprocessing
 - **Tableau**: Visualization and dashboard design
-- **Libraries**: Pandas, NumPy, Matplotlib (if applicable)
+- **Libraries**: Pandas, NumPy
 
 ## Insights
 - Counties with large populations naturally have a greater number of facilities, but this doesn’t always correspond to 
